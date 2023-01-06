@@ -1,7 +1,7 @@
 # Rickroll Captive Portal
 _Portal template for Evil Portal module to WiFi Pineapple_
 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Description
 This portal is meant for people who want to make people aware of the risks of using public wifis. And at the same time pranking them with an rickroll.
